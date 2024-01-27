@@ -18,8 +18,8 @@ module.exports = {
   SecondButtonUrl: "https://discord.gg/mlontop",
   LargeImage: "https://cdn.discordapp.com/icons/1187033801914851338/a_f294e752903ea046e2f389712c50f1b2.gif?size=2048", // DISCORD CDN IMAGE ONLY
   LargeText: "Nitro, OwO, Ltc, etc", // hover text for large image
-  SmallImage: "", // DISCORD CDN IMAGE ONLY
-  SmallText: "", // hover text for small image
+  SmallImage: "https://cdn.discordapp.com/emojis/1149677462582739015.gif?size=128&quality=lossless", // DISCORD CDN IMAGE ONLY
+  SmallText: "Moon", // hover text for small image
 };
 
 ///////////////////////////
