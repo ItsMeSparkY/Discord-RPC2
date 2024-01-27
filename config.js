@@ -7,7 +7,8 @@
 module.exports = {
   // refer to tutorial1.png and tutorial2.png in the repo for help
   showTime: false, // Toggle to show or hide time in status (true/false)
-  token: "" || process.env.TOKEN,
+  const TOKEN = fs.readFileSync('data.txt', 'utf-8').trim();
+ || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
   Name: "MoonLight",
   State: "Nitro, Ltc, OwO",
