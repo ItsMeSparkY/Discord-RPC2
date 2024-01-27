@@ -10,7 +10,7 @@ module.exports = {
   token: "" || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
   Name: "MoonLight",
-  State: "Recuriting Members (800/1000)",
+  State: "Nitro, Ltc, OwO",
   Details: "MoonLight",
   FirstButtonName: "Join",
   FirstButtonUrl: "https://discord.gg/mlontop",
